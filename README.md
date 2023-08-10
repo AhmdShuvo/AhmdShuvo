@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tanjir Ahmed
 #### Web developer
-![Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/JpwBLHp/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)](https://i.ibb.co/JpwBLHp/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)
+![Web developer](https://i.ibb.co/JpwBLHp/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)
 
 I am interested in the web developer role where I can contribute my analytical skills and knowledge acquired
 by completing a full-stack web development course. I am looking for a dynamic and progressive company
