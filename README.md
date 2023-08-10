@@ -2,7 +2,7 @@
 <h3 align="center">Full-Satck Webdeveloper || MERN Stack Developer</h3>
 
 ![Full-Satck Webdeveloperr](https://i.ibb.co/JpwBLHp/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)
-<P align="center > I am interested in the web developer role where I can contribute my analytical skills and knowledge acquired
+<P align=" center" > I am interested in the web developer role where I can contribute my analytical skills and knowledge acquired
 by completing a full-stack web development course. I am looking for a dynamic and progressive company
 where my skills are utilized in the maximum way possible. </P>
 
