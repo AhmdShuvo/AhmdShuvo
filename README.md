@@ -2,11 +2,9 @@
 #### Web developer
 ![Web developer](https://i.ibb.co/JpwBLHp/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)
 
-I am interested in the web developer role where I can contribute my analytical skills and knowledge acquired
-by completing a full-stack web development course. I am looking for a dynamic and progressive company
-where my skills are utilized in the maximum way possible.
+I am interested in applying for the web developer role, where I can utilize my analytical skills and knowledge gained from completing a full-stack web development course. I am seeking a dynamic and progressive company that can allow me to maximize my potential.
 
-Skills: NextJS / REACT / JS / HTML / CSS
+Skills: NextJS / REACT / JS / HTML / CSS / Nodejs / Expressjs / MySQL / MongoDB
 
 
 
@@ -23,5 +21,3 @@ Skills: NextJS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/ahmdshuvo)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmdshuvo)  
-
-![Profile views](https://gpvc.arturio.dev/ahmdshuvo)  
